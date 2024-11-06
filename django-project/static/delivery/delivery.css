@@ -1,0 +1,16 @@
+/* Delivery, Online Menu, Payment Options */
+.delivery,
+.online-menu,
+.payment-options {
+    background-color: #fff8e1;
+    text-align: center;
+}
+
+.delivery p,
+.online-menu p,
+.payment-options p {
+    font-size: 1.1rem;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto 40px;
+}

@@ -1,0 +1,36 @@
+/* Food, Drinks, Alcohol, Desserts Sections */
+.food,
+.drinks,
+.alcohol,
+.desserts {
+    background-color: #f8f9fa;
+}
+
+.food ul,
+.drinks ul,
+.alcohol ul,
+.desserts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.food li,
+.drinks li,
+.alcohol li,
+.desserts li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+.food li strong,
+.drinks li strong,
+.alcohol li strong,
+.desserts li strong {
+    color: #ff6347;
+    font-weight: bold;
+}
+
+/* Food Section */
+.food ul {
+    padding: 0;
+}
